@@ -4,6 +4,6 @@
 
 Web Developer & Automation Engineer.
 
-Telegram: t.me/refages
+Telegram: https://t.me/refages
 
 Email: refages.offc@gmail.com
